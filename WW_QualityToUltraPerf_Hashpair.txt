@@ -78,12 +78,12 @@ f98c7e7c:4e915e91
 
 #Chixia
 8f423e37:870b9128
-94afca13:506c16fd
-e29e63d6:4096050a
-873ca04e:dd80f74a
-9497a1b9:99f83aba
+ba246036:eaed1c79
 94d10f56:cb974015
-7988637b:679b50e1
+9497a1b9:99f83aba
+489b5f2a:6e723bc1
+e29e63d6:4096050a
+45e0cedb:1e84d1a3
 ab057c17:4e2e7079
 9f2544e0:57e88604
 
@@ -601,4 +601,6 @@ c464c8d5:d45aa60e
 92ab1de5:33e39fcb
 
 
-#Hashpair data Last updated 10 April 2025, Cantarella Updated (minor update in-game v2.2.x), some characters' textures might be broken on v2.2
+#Hashpair data Last updated 10 April 2025, some characters' textures might be broken on v2.2
+#Cantarella Updated (minor update in-game v2.2.x)
+#Updated Chixia v2.2 (Injured not included)
