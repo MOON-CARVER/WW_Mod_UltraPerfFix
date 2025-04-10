@@ -353,19 +353,19 @@ bace929a:1ae63cf1
 c3d6c485:c60b2fe6
 
 #Cantarella
-5db1989d:f5e478e4
-22ba1d3e:d6b8c7c3
-87821a93:92838744
-83a99602:64df8a0f
-0fce3633:63bd0a5e
-d789c54e:63915a2b
-c93ea25b:49a4e7b6
-94a9c5e1:d793f3b3
 dcb62fb6:366b82a1
-35c01267:0c65e7d2
+d789c54e:63915a2b
+83a99602:64df8a0f
+87821a93:92838744
+c93ea25b:49a4e7b6
 787c92b8:583b6efd
-dc14e209:52d10f2d
+b6deb6c2:03af6ae8
+22ba1d3e:d6b8c7c3
+94a9c5e1:d793f3b3
+0480d129:14cb399b
 73360451:8ef9b717
+dc14e209:52d10f2d
+5db1989d:f5e478e4
 #CantarellaUmbrella
 52a54db3:04c66147
 daed0b06:66770668
@@ -601,4 +601,4 @@ c464c8d5:d45aa60e
 92ab1de5:33e39fcb
 
 
-#Hashpair data Last updated 27/3/2025 Cantarella Added
+#Hashpair data Last updated 10 April 2025, Cantarella Updated (minor update in-game v2.2.x), some characters' textures might be broken on v2.2
