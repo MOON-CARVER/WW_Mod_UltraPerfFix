@@ -371,6 +371,17 @@ dc14e209:52d10f2d
 daed0b06:66770668
 
 
+#zani
+66ec53c0 : 42b5fa05
+c91bc37a : ece3d873
+a7869af0 : c529924f
+71f1a895 : 99dcc139
+988c2332 : 9c4f7ff4
+a6006726 : 3fced3f5
+
+
+
+
 #----------------OTHER/NPC/ENEMY--------------
 #CuddleWuddle(Enemy)
 0c70b826:66b955fe

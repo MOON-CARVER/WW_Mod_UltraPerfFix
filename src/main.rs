@@ -6,7 +6,7 @@ use rfd::FileDialog;
 use reqwest::blocking::get;
 
 const BACKUP_EXTENSION: &str = "ini_bakcup_from_ultraperf_fixer_tool";
-const HASH_URL: &str = "https://raw.githubusercontent.com/Aglglg/WW_Mod_UltraPerfFix/refs/heads/main/WW_QualityToUltraPerf_Hashpair.txt";
+const HASH_URL: &str = "https://github.com/MOON-CARVER/WW_Mod_UltraPerfFix/blob/main/WW_QualityToUltraPerf_Hashpair.txt";
 fn main() {    
     // Open file dialog for folder selection
     println!("Select your \"Mods\" folder(D:\\WWMI\\Mods), or single mod folder (D:\\WWMI\\Mods\\RoverMod) ");
